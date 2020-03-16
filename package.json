@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/aw000007",
-	"version": "1.0.202003160853",
+	"version": "1.0.202003160915",
 	"description": "local设置存储",
 	"scripts": {
 		"test": "npm run build && karma start --single-run",
